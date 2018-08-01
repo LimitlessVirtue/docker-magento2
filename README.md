@@ -1,6 +1,14 @@
 # Magento 2 Docker to Development
 Docker Image to Magento 2 local development in Mac, Linux and Windows
 
+### Apache 2.4 + PHP 7.0 + OPCache + MariaDB + N98 Magerun 2 + XDebug + Redis
+
+* [![Build Status](https://api.travis-ci.org/LimitlessVirtue/docker-magento2.svg?branch=master)](https://api.travis-ci.org/LimitlessVirtue/docker-magento2.svg?branch=master)
+* [![Docker Build](https://img.shields.io/docker/build/LimitlessVirtue/docker-magento2.svg)](https://hub.docker.com/r/LimitlessVirtue/docker-magento2/)
+* [![Docker Pulls](https://img.shields.io/docker/pulls/LimitlessVirtue/docker-magento2.svg)](https://hub.docker.com/r/LimitlessVirtue/docker-magento2/)
+* [![Docker Starts](https://img.shields.io/docker/stars/LimitlessVirtue/docker-magento2.svg)](https://hub.docker.com/r/LimitlessVirtue/docker-magento2/)
+* [![Build Status](https://images.microbadger.com/badges/image/LimitlessVirtue/docker-magento2.svg)](https://microbadger.com/images/LimitlessVirtue/docker-magento2)
+* [![Releases](https://img.shields.io/github/release/rafaelcgstz/magento2.svg)](https://github.com/rafaelcgstz/magento2/releases)
 
 
 Insperation:
