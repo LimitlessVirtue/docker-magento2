@@ -7,7 +7,6 @@ Docker Image to Magento 2 local development in Mac, Linux and Windows
 * [![Docker Build](https://img.shields.io/docker/build/limitlessv/docker-magento2.svg)](https://hub.docker.com/r/limitlessv/docker-magento2/)
 * [![Docker Pulls](https://img.shields.io/docker/pulls/limitlessv/docker-magento2.svg)](https://hub.docker.com/r/limitlessv/docker-magento2/)
 * [![Docker Starts](https://img.shields.io/docker/stars/limitlessv/docker-magento2.svg)](https://hub.docker.com/r/limitlessv/docker-magento2/)
-* [![Build Status](https://images.microbadger.com/badges/image/limitlessv/docker-magento2.svg)](https://microbadger.com/images/limitlessv/docker-magento2)
 * [![Releases](https://img.shields.io/github/release/LimitlessVirtue/docker-magento2.svg)](https://github.com/LimitlessVirtue/docker-magento2/releases)
 
 
