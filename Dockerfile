@@ -2,6 +2,11 @@ FROM php:7.0-apache
 
 LABEL maintainer "Shmuel Maruani | LimitlessV | Limitless Virtue LLC"
 
+ARG VCS_REF
+LABEL org.label-schema.vcs-ref=$VCS_REF \
+      org.label-schema.vcs-url="e.g. https://github.com/microscaling/microscaling"
+                
+
 ENV XDEBUG_PORT 9000
 
 # Install System Dependencies
